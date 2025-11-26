@@ -6,9 +6,6 @@ I’m an 18-year-old student learning my way into full-stack development.<br><br
 • Trying to improve my full-stack skills<br>
 • Learning how real web apps are made<br><br>
 
-<h2><b>🧠 About Me</b></h2>
-I enjoy learning, building small projects, and slowly growing toward becoming a full-stack developer.<br><br>
-
 <h2><b>🔗 Want to know more?</b></h2>
 Feel free to check out my portfolio and resume below.<br><br>
 
