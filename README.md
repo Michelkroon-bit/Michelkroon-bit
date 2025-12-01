@@ -1,4 +1,4 @@
-<h1>💫 About Me:</h1>
+<h1>About Me:</h1>
 I’m an 18-year-old student learning my way into full-stack development.<br><br>
 
 <h2><b>💻 I'm Currently</b></h2>
